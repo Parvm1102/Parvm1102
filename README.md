@@ -1,58 +1,69 @@
-<!-- Intro banner -->
-<h1 align="center">
-  Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/> — I'm <strong>Parv Mittal</strong>!
-</h1>
+# 👋 Hi there! I'm Parv Mittal
 
-<p align="center">
-  🏫 CS Undergrad @ <strong>IIIT Gwalior</strong> · 💻 Full-stack Web Developer · 🤖 AI Engineer  
-</p>
+## 💫 About Me
+I'm a Computer Science student at **IIIT Gwalior**, passionate about fullstack web development and AI engineering. I love building innovative solutions that combine cutting-edge AI technologies with robust web applications.
 
----
-
-## ✨ About Me
-- 🔭 I’m building data-driven web apps & experimenting with large language models  
-- 🌱 Currently exploring **multimodal deep learning** and **distributed systems**  
-- 💬 Ask me about JavaScript/Node, React, Python AI stacks, or college life at IIITG  
-- ⚡ Fun fact: I collect classic mechanical keyboards and fix them up!
-
----
-
-## 🧰 Tech Toolbox
-
-| Category | Badges |
-| -------- | ------ |
-| **Programming&nbsp;Languages** | ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=000) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=fff) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) |
-| **Web&nbsp;Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000) |
-| **Web&nbsp;Backend / Runtime** | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff) ![Express](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff) |
-| **AI / ML** | ![Machine Learning](https://img.shields.io/badge/Machine Learning-FF6F00?logo=tensorflow&logoColor=fff) ![Deep Learning](https://img.shields.io/badge/Deep Learning-4B32C3?logo=pytorch&logoColor=fff) ![LLMs](https://img.shields.io/badge/LLM-Engineering-222?logo=openai&logoColor=fff) ![NLP](https://img.shields.io/badge/NLP-8A2BE2?logo=spacy&logoColor=fff) ![Computer Vision](https://img.shields.io/badge/Computer Vision-EE4C2C?logo=opencv&logoColor=fff) |
-| **Operating&nbsp;Systems & Tools** | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff) |
-| **CS&nbsp;Fundamentals** | ![OS](https://img.shields.io/badge/Operating Systems-007ACC?logo=windows&logoColor=fff) ![Networks](https://img.shields.io/badge/Computer Networks-006600?logo=cisco&logoColor=fff) |
-
----
-
-## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parvmittal&show_icons=true&theme=default&hide=issues" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvmittal&layout=compact&hide=html,css" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parvmittal" alt="GitHub streak stats" />
 </div>
 
----
+## 🔧 Technologies & Tools
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/parvmittal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:parvmittal@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/parvmittal"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
+### Programming Languages
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+### AI & Machine Learning
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-5C3EE8?style=for-the-badge&logo=pytorch&logoColor=white)
+![LLM](https://img.shields.io/badge/-LLM-00FFFF?style=for-the-badge&logo=openai&logoColor=black)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NLP](https://img.shields.io/badge/-NLP-8CAAE6?style=for-the-badge&logo=nlp&logoColor=white)
 
+### Web Development
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### DevOps & Tools
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Operating Systems](https://img.shields.io/badge/-Operating%20Systems-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Computer Networks](https://img.shields.io/badge/-Computer%20Networks-006699?style=for-the-badge&logo=cisco&logoColor=white)
+
+## 🚀 Projects
+<!-- You can add your projects here -->
 <details>
-  <summary>📜 A little more about me...</summary>
+  <summary>View My Projects</summary>
+  
+  <!-- Example project format
+  ### Project Name
+  * Description: Brief description of what this project does
+  * Technologies: Tech stack used
+  * [Repository](link) | [Live Demo](link)
+  -->
+  
+</details>
 
-  ```text
-  🎓  B.Tech + M.Tech Integrated (2023-2028) at IIIT Gwalior  
-  🔬  Researching: Efficient fine-tuning for small-data LLM tasks  
-  🎮  Gamer tag: “SunsetCoder” — mostly platformers and rogue-likes  
-  📚  Reading: “Designing Data-Intensive Applications” by Martin Kleppmann  
+## 📫 How to reach me:
+<!-- You can add your contact information here -->
+<!-- 
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+-->
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=parvmittal&style=flat-square&color=blueviolet" alt="Profile views" />
+</div>
