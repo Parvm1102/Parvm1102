@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  🏫 CS Undergrad @ <strong>IIIT Gwalior</strong> · 💻 Full-stack Web Developer · 🤖 AI Engineer  
+  🏫 CS Undergrad @ <strong>IIIT Gwalior</strong> · 💻 Full-stack Web Developer · 🤖 AI Engineer . 🧩 DSA Enthusiast  
 </p>
 
 ---
