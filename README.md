@@ -60,6 +60,9 @@ I'm a Computer Science student at IIIT Gwalior, passionate about fullstack web d
 [![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/parv_mittal07)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/chrono877/)
 
+![Your Name's Top Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Parvm1102&layout=compact&langs_count=7&theme=dark)
+
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=Parvm1102&show_icons=true&theme=dark)
 
 ---
 
